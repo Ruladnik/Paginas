@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Aplica estilos a la imagen */
+
+img {
+    width: 200px; 
+    height: 150px; 
+}
+
+
+header {
+    background-color: #a79595;
+    color: #0d0329;
+    text-align: center;
+    padding: 20px;
+}
+
+
+
+nav li {
+    display: inline;
+    margin: 0 10px;
+}
+
+main {
+    padding: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid #333;
+}
+
+/* Estilos para el pie de página */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+body {
+    background-color: #ccc; /* Cambia #ccc por el color que desees */
+}
+
